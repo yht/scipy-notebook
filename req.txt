@@ -1,0 +1,7 @@
+tqdm
+nltk
+spacy
+unidecode
+pandas
+Sastrawi
+textblob
